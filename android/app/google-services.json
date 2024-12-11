@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998619616716",
+    "project_id": "espinarapp",
+    "storage_bucket": "espinarapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998619616716:android:a934373dfaa51c7517b969",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_espinar2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBunlP0nF4ppDeW0Zo3Mp56hlj1ZO-_zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
