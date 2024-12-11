@@ -101,7 +101,7 @@ class AddService extends StatelessWidget {
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.purple,
               ),
-              child: Text('Subir Servicio'),
+              child: Text('Subir Servicio '),
             ),
           ],
         ),
